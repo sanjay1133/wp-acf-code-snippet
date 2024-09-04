@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.galaxyweblinks.com/" target="_blank"><h1>Galaxy Weblinks</h1></a></p>
+<div align="center"><a href="https://www.galaxyweblinks.com/" target="_blank"><h1>Galaxy Weblinks</h1></a></div>
 
 # WordPress - ACF Snippets
 
